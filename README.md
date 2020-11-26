@@ -1,4 +1,4 @@
-# Robotics
+# ROBOTICS
 
 ## [Centralized Robotic Arm Hybrid Position Force Control](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)              
 ### *April-July 2020*
@@ -19,7 +19,7 @@
 * Constructed a robotic manipulator and implemented inverse velocity path control
 
 
-# Product Designing
+# PRODUCT DESIGNING
 
 ## [Push Eject Power Strip](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
 ### *2017*
