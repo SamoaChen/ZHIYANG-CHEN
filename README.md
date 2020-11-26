@@ -17,3 +17,15 @@
 ### *Sep 2020-present*
 * Simulated numerical inverse kinematics and inverse velocity path control of a 3 linkages robotic manipulator in MATLAB
 * Constructed a robotic manipulator and implemented inverse velocity path control
+
+
+## [Push Eject Power Strip](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
+### *2017*
+* Designed power strip that will release outlet with one push; Conducted market research and investigated existing products
+* 3D printed model, and adjusted model according to tests
+
+
+## [Eye Drop Assister](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
+### *2018*
+* Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
+* 3D printed model, and adjusted model according to tests
