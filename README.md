@@ -24,7 +24,8 @@
 ## [Push Eject Power Strip](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
 ### *2017*
 <img src="images/power_strip.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
-* Designed power strip that will release outlet with one push; Conducted market research and investigated existing products
+* Designed power strip that will release outlet with one push
+* Conducted market research and investigated existing products
 * 3D printed model, and adjusted model according to tests
 
 
