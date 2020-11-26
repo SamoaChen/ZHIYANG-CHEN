@@ -15,7 +15,7 @@
 
 ## [Stereo Vision Based Robotic Manipulator](https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator)      
 ### *Sep 2020-present*
-<img src="images/STEREO_ROBOT_ARM.JPG"  width="100%" height="100%" alt="hi" class="inline"/>
+<img src="images/stereo_robot_arm.JPG"  width="100%" height="100%" alt="hi" class="inline"/>
 * Simulated numerical inverse kinematics and inverse velocity path control of a 3 linkages robotic manipulator in MATLAB
 * Constructed a robotic manipulator and implemented inverse velocity path control
 
