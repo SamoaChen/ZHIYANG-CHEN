@@ -4,7 +4,7 @@
 ## [Centralized Robotic Arm Hybrid Position Force Control](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
 ### *April-July 2020*
 ![](/images/Arm_Display_Final_with_Curtain_edited.jpg)
-<img src="images/Arm_Display_Final_with_Curtain_edited.jpg" alt="hi" class="inline"/  width="30%" height="30%">
+<img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="80%" height="80%" alt="hi" class="inline"/>
 bla bla bla
 
 
