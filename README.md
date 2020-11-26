@@ -19,6 +19,8 @@
 * Constructed a robotic manipulator and implemented inverse velocity path control
 
 
+# Product Designing
+
 ## [Push Eject Power Strip](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
 ### *2017*
 * Designed power strip that will release outlet with one push; Conducted market research and investigated existing products
