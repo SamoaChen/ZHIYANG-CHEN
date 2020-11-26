@@ -2,5 +2,5 @@
 Personal Project Portfolio
 
 
-##project 1:
+## project 1:
 bla bla bla
