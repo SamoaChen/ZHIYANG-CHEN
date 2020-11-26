@@ -1,6 +1,4 @@
-# Zhiyang Portfolio
-Personal Project Portfolio
+# ROBOTICS
 
-
-## project 1:
+## PROJECT 1:
 bla bla bla
