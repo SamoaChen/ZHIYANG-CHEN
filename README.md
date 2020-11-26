@@ -13,8 +13,9 @@
 * Calibrated and built a stereo camera and coded an object 3D coordinate measuring program
 * Integrated the stereo camera with robot arm controller and achieved object tracing with the robotic arm end-effector
 
-## [Stereo Vision Based Robotic Manipulator](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
+## [Stereo Vision Based Robotic Manipulator](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)      
 ### *Sep 2020-present*
+<img src="images/STEREO_ROBOT_ARM.JPG"  width="100%" height="100%" alt="hi" class="inline"/>
 * Simulated numerical inverse kinematics and inverse velocity path control of a 3 linkages robotic manipulator in MATLAB
 * Constructed a robotic manipulator and implemented inverse velocity path control
 
