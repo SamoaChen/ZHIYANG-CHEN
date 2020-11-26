@@ -31,7 +31,8 @@
 * 3D printed model, and adjusted model according to tests
 
 
-## [Eye Drop Assister](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
+## [Eye Drop Assister](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)   
+<!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
 ### *2018*
 <img src="images/cup.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
 * Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
