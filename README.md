@@ -3,7 +3,7 @@
 ## Project 1:
 ## [Centralized Robotic Arm Hybrid Position Force Control](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
 ### *April-July 2020*
-&nbsp<img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="80%" height="80%" alt="hi" class="inline"/><br/>
+</pre><img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="80%" height="80%" alt="hi" class="inline"/><br/>
 * Designed and built a 2 linkages robotic arm out of cardboard during quarantine, and achieve centralized position control, hybrid position force control, and achieved object tracing with stereo vision
 * Designed and constructed an angle overshoot-proofing mechanism for two DC motors
 *	Derived EOM and jacobian matrix, simulated centralized controller in MATLAB, and converted to NumPy version
