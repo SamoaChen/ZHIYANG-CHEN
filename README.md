@@ -29,3 +29,12 @@
 ### *2018*
 * Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
 * 3D printed model, and adjusted model according to tests
+
+## [Breathe-Easy Asthma Inhaler](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)                 
+### *June-Aug 2018*
+* Designed, prototyped, and presented an invention: Breathe-Easy Inhaler with a partner
+* The invention is an asthma inhaler that actively controls inhalation airflow for patients to optimize drug deposition
+* Integrated modules Arduino, ESC controlled ducted fan, pressure sensor/servo motor, battery
+*	Wrote and filed a provisional patent application, and currently working improve the design
+
+
