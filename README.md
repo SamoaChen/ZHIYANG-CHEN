@@ -34,13 +34,15 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 
 
 ## [Eye Drop Assister](https://gurubbedy.wixsite.com/zhiyang/project-3)   
+### Patent Pending
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
 ### *2018*
 <img src="images/cup.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
 * Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
 * 3D printed model, and adjusted model according to tests
 
-## [Breathe-Easy Asthma Inhaler](https://gurubbedy.wixsite.com/zhiyang/project-1)                 
+## [Breathe-Easy Asthma Inhaler](https://gurubbedy.wixsite.com/zhiyang/project-1)     
+### Patent Pending
 ### *June-Aug 2018*
 <img src="images/inhaler.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
 * Designed, prototyped, and presented an invention: Breathe-Easy Inhaler with a partner
