@@ -2,6 +2,7 @@
 
 ## [Centralized Robotic Arm Hybrid Position Force Control (hyperlinked)](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)         
 ### *April-July 2020*
+* { font-size: 9pt; }
 <img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
 
 * Designed and built a 2 linkages robotic arm out of cardboard during quarantine, and achieve centralized position control, hybrid position force control, and achieved object tracing with stereo vision
