@@ -22,7 +22,8 @@
 
 # PRODUCT DESIGNING
 
-## [Push Eject Power Strip](https://gurubbedy.wixsite.com/zhiyang/project-2) 
+## [Push Eject Power Strip](https://gurubbedy.wixsite.com/zhiyang/project-2) Patent NO: CN208589597U
+link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U)
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-2 -->
 ### *2017*
 <img src="images/push_eject_power_strip.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
