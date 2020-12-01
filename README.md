@@ -22,7 +22,7 @@
 
 # PRODUCT DESIGNING
 
-## [Push Eject Power Strip](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control) 
+## [Push Eject Power Strip](https://gurubbedy.wixsite.com/zhiyang/project-2) 
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-2 -->
 ### *2017*
 <img src="images/push_eject_power_strip.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
@@ -31,7 +31,7 @@
 * 3D printed model, and adjusted model according to tests
 
 
-## [Eye Drop Assister](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)   
+## [Eye Drop Assister](https://gurubbedy.wixsite.com/zhiyang/project-3)   
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
 ### *2018*
 <img src="images/cup.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
