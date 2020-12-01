@@ -1,6 +1,6 @@
 # ROBOTICS
 
-## [Centralized Robotic Arm Hybrid Position Force Control <span style="font-size:10px">(hyperlinked)</span>](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)              
+## [Centralized Robotic Arm Hybrid Position Force Control ](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control)<span style="font-size:10px">(hyperlinked)</span>              
 ### *April-July 2020*
 
 <img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
