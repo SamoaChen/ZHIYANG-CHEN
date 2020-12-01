@@ -32,7 +32,6 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 * Conducted market research and investigated existing products
 * 3D printed model, and adjusted model according to tests
 
-
 ## [Eye Drop Assister](https://gurubbedy.wixsite.com/zhiyang/project-3)   
 ### Patent Pending
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
@@ -51,3 +50,4 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 *	Wrote and filed a provisional patent application, and currently working improve the design
 
 
+##[Quick Link to My Employment History](https://gurubbedy.wixsite.com/zhiyang/employment)
