@@ -13,7 +13,7 @@
 * Calibrated and built a stereo camera and coded an object 3D coordinate measuring program
 * Integrated the stereo camera with robot arm controller and achieved object tracing with the robotic arm end-effector
 
-## [Stereo Vision Based Robotic Manipulator](https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/README.md)      
+## [Stereo Vision Based Robotic Manipulator (hyperlinked)](https://github.com/SamoaChen/Stereo-Vision-Based-Robotic-Manipulator/blob/main/README.md)      
 ### *Sep 2020-present*
 <img src="images/stereo_robot_arm.JPG"  width="100%" height="100%" alt="hi" class="inline"/>
 * Simulated numerical inverse kinematics and inverse velocity path control of a 3 linkages robotic manipulator in MATLAB
@@ -22,7 +22,7 @@
 
 # PRODUCT DESIGNING
 
-## [Push Eject Power Strip](https://gurubbedy.wixsite.com/zhiyang/project-2) 
+## [Push Eject Power Strip (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/project-2) 
 ### Patent NO: CN208589597U
 link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U)
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-2 -->
@@ -32,7 +32,7 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 * Conducted market research and investigated existing products
 * 3D printed model, and adjusted model according to tests
 
-## [Eye Drop Assister](https://gurubbedy.wixsite.com/zhiyang/project-3)   
+## [Eye Drop Assister (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/project-3)   
 ### Patent Pending
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
 ### *2018*
@@ -40,7 +40,7 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 * Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
 * 3D printed model, and adjusted model according to tests
 
-## [Breathe-Easy Asthma Inhaler](https://gurubbedy.wixsite.com/zhiyang/project-1)     
+## [Breathe-Easy Asthma Inhaler (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/project-1)     
 ### Patent Pending
 ### *June-Aug 2018*
 <img src="images/inhaler.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
@@ -50,4 +50,4 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 *	Wrote and filed a provisional patent application, and currently working improve the design
 
 
-## [Quick Link to My Employment History](https://gurubbedy.wixsite.com/zhiyang/employment)
+## [Quick Link to My Employment History (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/employment)
