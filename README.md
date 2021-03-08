@@ -17,8 +17,8 @@
 <img src="images/5dof_robot.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
 * Simulated numerical inverse kinematics and inverse velocity path control of a 3 linkages robotic manipulator in MATLAB
 * Constructed a 3 DOF robotic manipulator and implemented inverse velocity path control
-*  Constructed a 5 DOF robotic manipulator with suction cup
-*  Design and constructed a cheap version 5 DOF robotic manipulator with adhesive-picking mechanism
+* Constructed a 5 DOF robotic manipulator with suction cup
+* Design and constructed a cheap version 5 DOF robotic manipulator with adhesive-picking mechanism
 
 
 # PRODUCT DESIGNING
