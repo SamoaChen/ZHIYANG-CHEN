@@ -1,6 +1,6 @@
 # ROBOTICS
 
-## [Autonomous Car Trajectory Tracking](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
+## [Autonomous Car Trajectory Tracking (hyperlinked)](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
 ### *June-August 2021*
 
 * Built a model Car and implemented trajectory tracking with course angle as the only input
