@@ -2,7 +2,7 @@
 
 ## [Autonomous Car Trajectory Tracking (hyperlinked)](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
 ### *June-August 2021*
-<img src="images/car_picture.jpg"  width="100%" height="80%" alt="hi" class="inline"/>
+<img src="images/car_picture.jpg"  width="100%" height="70%" alt="hi" class="inline"/>
 
 * Built a model Car and implemented trajectory tracking with course angle as the only input
 * Integrated Extended Kalman Filter and gain scheduling into the trajectory tracking control loop
