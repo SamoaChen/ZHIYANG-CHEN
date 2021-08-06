@@ -1,5 +1,14 @@
 # ROBOTICS
 
+## [Autonomous Car Trajectory Tracking](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
+### *June-August 2021*
+
+* Built a model Car and implemented trajectory tracking with course angle as the only input
+* Integrated Extended Kalman Filter and gain scheduling into the trajectory tracking control loop
+* Integrated modules Arduino, Raspberry pi, DC motors with encoder, Motor Driver, IMU, Servo Motor
+* Designed and implemented wheel speed controller with feedforward and feedback components
+* Realized the project with ROS
+
 ## [Centralized Robotic Arm Hybrid Position Force Control (hyperlinked) ](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control) 
 ### *April-July 2020*
 <img src="images/Arm_Display_Final_with_Curtain_edited.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
