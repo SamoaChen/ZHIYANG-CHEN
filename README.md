@@ -1,6 +1,6 @@
 # ROBOTICS
 
-## [Autonomous Car Trajectory Tracking (hyperlinked)](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
+## [Autonomous Car Light Painting (hyperlinked)](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking)
 ### *June-August 2021*
 <img src="images/car_picture.jpg"  width="100%" height="70%" alt="hi" class="inline"/>
 
@@ -9,6 +9,7 @@
 * Integrated modules Arduino, Raspberry pi, DC motors with encoder, Motor Driver, IMU, Servo Motor
 * Designed and implemented wheel speed controller with feedforward and feedback components
 * Realized the project with ROS
+* Designed and took long exposure photo of trajectories
 
 ## [Centralized Robotic Arm Hybrid Position Force Control (hyperlinked) ](https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control) 
 ### *April-July 2020*
