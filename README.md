@@ -62,6 +62,7 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-2 -->
 ### *2017*
 <img src="images/push_eject_power_strip.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
+
 * Designed power strip that will release outlet with one push
 * Conducted market research and investigated existing products
 * 3D printed model, and adjusted model according to tests
@@ -71,6 +72,7 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 <!--- https://gurubbedy.wixsite.com/zhiyang/project-3 -->
 ### *2018*
 <img src="images/cup.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
+
 * Designed eye drop assistor that optimize user experience and guide drops to eyeballs better
 * 3D printed model, and adjusted model according to tests
 
