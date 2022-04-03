@@ -43,7 +43,7 @@
 
 ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/)
 ### *March 2022*
-<img src="images/policy_iteration.png"  width="100%" height="100%" alt="hi" class="inline"/>
+<img src="images/policy_iteration.png"  width="60%" height="60%" alt="hi" class="inline"/>
 
 # PRODUCT DESIGNING
 
