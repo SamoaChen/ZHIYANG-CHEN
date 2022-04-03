@@ -40,6 +40,9 @@
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map1.png?raw=true" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map2.png?raw=true" width="45%" height="45%">
 </p>
+* Implemented simulation localization and mapping with particle filter
+* Vectorized all the provided for loop and increased computing speed by more than three times
+* Designed a vectorized version of low variance resampling algorithm for particle resampling
 
 ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/)
 ### *March 2022*
@@ -47,6 +50,7 @@
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration_ite1.png?raw=true" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration.png?raw=true" width="45%" height="45%">
 </p>
+* Implemented policy iteration for a robot in a 10x10 grid world
 
 # PRODUCT DESIGNING
 
