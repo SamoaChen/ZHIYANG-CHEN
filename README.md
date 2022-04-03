@@ -34,7 +34,7 @@
 
 # CLASS PROJECT
 
-## SLAM with Particle Filter
+## [SLAM with Particle Filter]
 ### *March 2022*
 <p float="left">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map1.png?raw=true" width="45%" height="45%">
