@@ -44,8 +44,8 @@
 ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/)
 ### *March 2022*
 <p float="left">
-   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration_ite1,png?raw=true" width="45%" height="45%">
-   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration,png?raw=true" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration_ite1.png?raw=true" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration.png?raw=true" width="45%" height="45%">
 </p>
 
 # PRODUCT DESIGNING
