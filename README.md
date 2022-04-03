@@ -40,6 +40,7 @@
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map1.png?raw=true" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map2.png?raw=true" width="45%" height="45%">
 </p>
+
 # PRODUCT DESIGNING
 
 ## [Push Eject Power Strip (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/project-2) 
