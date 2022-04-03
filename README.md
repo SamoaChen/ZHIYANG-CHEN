@@ -32,6 +32,14 @@
 * Constructed a 5 DOF robotic manipulator with suction cup
 * Designed and constructed a cheap version 5 DOF robotic manipulator with adhesive-picking mechanism
 
+# CLASS PROJECT
+
+## ESE-650 Learning for Robotics
+### *2022*
+<p float="left">
+   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration.png?raw=true?raw=true" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map1.png?raw=true?raw=true" width="50%" height="50%">
+</p>
 
 # PRODUCT DESIGNING
 
