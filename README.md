@@ -41,6 +41,10 @@
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map2.png?raw=true" width="45%" height="45%">
 </p>
 
+## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/)
+### *March 2022*
+<img src="images/policy_iteration.png"  width="100%" height="100%" alt="hi" class="inline"/>
+
 # PRODUCT DESIGNING
 
 ## [Push Eject Power Strip (hyperlinked)](https://gurubbedy.wixsite.com/zhiyang/project-2) 
