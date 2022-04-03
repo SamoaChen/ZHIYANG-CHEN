@@ -80,6 +80,7 @@ link:[https://patents.google.com/patent/CN208589597U/en?oq=CN208589597U](https:/
 ### Patent Pending
 ### *June-Aug 2018*
 <img src="images/inhaler.jpg"  width="100%" height="100%" alt="hi" class="inline"/>
+
 * Designed, prototyped, and presented an invention: Breathe-Easy Inhaler with a partner
 * The invention is an asthma inhaler that actively controls inhalation airflow for patients to optimize drug deposition
 * Integrated modules Arduino, ESC controlled ducted fan, pressure sensor/servo motor, battery
