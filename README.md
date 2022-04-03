@@ -36,7 +36,7 @@
 
 ## SLAM with Particle Filter
 ### *March 2022*
-<img src="images/map1.png"  width="100%" height="100%" alt="hi" class="inline"/>
+<img src="images/map1.png"  width="60%" height="60%" alt="hi" class="inline"/>
 
 # PRODUCT DESIGNING
 
