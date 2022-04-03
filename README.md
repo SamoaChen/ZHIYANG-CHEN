@@ -34,12 +34,9 @@
 
 # CLASS PROJECT
 
-## ESE-650 Learning for Robotics
-### *2022*
-<p float="left">
-   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration.png?raw=true?raw=true" width="45%" height="45%">
-   <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/map1.png?raw=true?raw=true" width="50%" height="50%">
-</p>
+## SLAM with Particle Filter
+### *March 2022*
+<img src="images/map1.png"  width="100%" height="100%" alt="hi" class="inline"/>
 
 # PRODUCT DESIGNING
 
