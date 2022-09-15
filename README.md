@@ -32,7 +32,7 @@
 * Constructed a 5 DOF robotic manipulator with suction cup
 * Designed and constructed a cheap version 5 DOF robotic manipulator with adhesive-picking mechanism
 
-# CLASS PROJECT
+# COURSE PROJECT
 
 ## [SLAM with Particle Filter](https://samoachen.github.io/ZHIYANG-CHEN/)
 ### *March 2022*
@@ -45,14 +45,14 @@
 * Vectorized all the provided for loop and increased computing speed by more than three times
 * Designed a vectorized version of low variance resampling algorithm for particle resampling
 
-## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/)
+<! --- ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/) 
 ### *March 2022*
 <p float="left">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration_ite1.png?raw=true" width="45%" height="45%">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration.png?raw=true" width="45%" height="45%">
 </p>
 
-* Implemented policy iteration for a robot in a 10x10 grid world
+* Implemented policy iteration for a robot in a 10x10 grid world -->
 
 # PRODUCT DESIGNING
 
