@@ -45,7 +45,7 @@
 * Vectorized all the provided for loop and increased computing speed by more than three times
 * Designed a vectorized version of low variance resampling algorithm for particle resampling
 
-<! --- ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/) 
+<!-- ## [Policy Iteration](https://samoachen.github.io/ZHIYANG-CHEN/) 
 ### *March 2022*
 <p float="left">
    <img src="https://github.com/SamoaChen/ZHIYANG-CHEN/blob/main/images/policy_iteration_ite1.png?raw=true" width="45%" height="45%">
